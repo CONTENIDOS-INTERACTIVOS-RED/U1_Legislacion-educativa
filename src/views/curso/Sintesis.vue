@@ -2,9 +2,9 @@
 .curso-main-container.creditos-vista
   BannerInterno(subTitulo="SÍNTESIS")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-4.mb-md-5 La unidad I:  Introducción al derecho y sus fuentes, establece los fundamentos teóricos esenciales para comprender el origen de las normas jurídicas y su aplicación. 
+    p.mb-4.mb-md-5 La Unidad 1: Estructura de las normas en Colombia. Constitución Política de Colombia, Decreto 1075 del 2015, analiza las bases jurídicas que regulan el sistema educativo colombiano, comenzando por la Constitución Política de Colombia de 1991, la cual garantiza el derecho fundamental a la educación como un servicio público esencial. Además, se estudia el Decreto 1075 del 2015, que consolida la normatividad educativa en un único texto y establece los lineamientos para asegurar el acceso a una educación de calidad. Comprender la estructura de estas normas permite visualizar cómo el marco legal orienta las políticas educativas del país, promoviendo la inclusión, la equidad y la formación integral de los ciudadanos.
     figure
-      img(src='@/assets/componentes/sintesis-test.png', alt='Texto que describa la imagen')
+      img(src='@/assets/componentes/sintesis.png', alt='Texto que describa la imagen')
     
 
 </template>

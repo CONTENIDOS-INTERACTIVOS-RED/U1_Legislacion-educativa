@@ -117,109 +117,115 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Congreso de la República de Colombia. (1991). Constitución Política de Colombia.',
+      link: null,
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Constitución Política de Colombia. (1991). Constitución Política de Colombia. Diario Oficial No. 39.988, 7 de julio de 1991.',
+      link: 'https://www.constitucioncolombia.com/',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'De Colombia, C. P. (1991). Título I De los principios fundamentales.',
+      link: 'https://pdba.georgetown.edu/Constitutions/Colombia/colombia91.pdf',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Ferrajoli, L. (2006). Sobre los derechos fundamentales. Cuestiones constitucionales, (15), 113-136.',
+      link: null,
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Ministerio de Educación Nacional. (1994). Ley 115 de 1994: Ley General de Educación. Diario Oficial No. 41.056, 8 de febrero de 1994.',
+      link: 'https://www.mineducacion.gov.co/',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Duk, C., & Murillo, F. J. (2020). El Derecho a la Educación es el Derecho a una Educación Inclusiva y Equitativa. Revista latinoamericana de educación inclusiva, 14(2), 11-13.',
+      link: null,
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Ministerio de Educación Nacional. (2015). Decreto 1075 de 2015: Decreto Único Reglamentario del Sector Educación.',
+      link: 'https://www.mineducacion.gov.co',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Artículo 67',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Artículo de la Constitución Política de Colombia que establece el derecho a la educación y la responsabilidad del Estado en su provisión.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Constitución Política de Colombia',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Documento fundamental que establece los principios, derechos y deberes de los ciudadanos, así como la estructura y funcionamiento del Estado colombiano.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Decreto 1075 de 2015',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Decreto reglamentario único del sector educación, que consolida y actualiza las normas reglamentarias del sector educativo en Colombia.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Democracia',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Sistema de gobierno en el que el poder es ejercido por el pueblo, directamente o a través de representantes elegidos, y que se basa en la participación ciudadana y el respeto a los derechos y libertades individuales.',
     },
     {
-      termino: 'Moda',
+      termino: 'Derecho a la Educación',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Derecho fundamental reconocido en la constitución y otros instrumentos legales, que garantiza el acceso a una educación de calidad para todos los ciudadanos.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Derechos Fundamentales',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Derechos inherentes a todos los seres humanos, reconocidos y protegidos por la constitución. Incluyen derechos civiles, políticos, económicos, sociales y culturales.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Educación Formal',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Sistema estructurado de enseñanza que incluye niveles como preescolar, básica y media, con un currículo definido y conducente a la obtención de certificados y diplomas oficiales.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Educación Informal',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Aprendizaje que se obtiene de la experiencia diaria y que no está estructurado ni formalizado, como puede ser el aprendizaje en el trabajo, en la familia, en la comunidad, etc.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Inclusión Educativa',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Principio y práctica de garantizar que todos los estudiantes, independientemente de sus capacidades o características personales, tengan acceso a una educación de calidad y participen plenamente en la vida escolar.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Ley 115 de 1994',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conocida como la Ley General de Educación, establece los objetivos, principios y organización del sistema educativo colombiano.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Marco Normativo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conjunto de leyes, decretos, reglamentos y otras disposiciones legales que regulan el funcionamiento de un sector específico, en este caso, el sector educativo.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Objetivos de la Educación',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Metas y propósitos que guían el sistema educativo, definidos en la normativa vigente, como la formación integral de los estudiantes y la promoción de valores democráticos.',
+    },
+    {
+      termino: 'Pluralismo',
+      significado:
+        'Principio constitucional que reconoce y valora la diversidad de opiniones, culturas y creencias en una sociedad.',
+    },
+    {
+      termino: 'Principios Fundamentales',
+      significado:
+        'Normas y valores esenciales que guían la organización y funcionamiento del Estado, incluidos en la Constitución Política de Colombia, como la democracia, soberanía y pluralismo.',
+    },
+    {
+      termino: 'Supervisión y Control',
+      significado:
+        'Mecanismos y entidades encargadas de asegurar el cumplimiento de las normas educativas, la calidad de la educación y la adecuada gestión de las instituciones educativas.',
     },
   ],
   complementario: [
